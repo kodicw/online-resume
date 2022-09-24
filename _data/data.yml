@@ -1,14 +1,14 @@
 basic:
   name: Kodi Walls
-  title: Backend Developer
+  title: Information Technology Specialist
   avatar:
     display: true
-    path: profile.png
+    path: https://media-exp1.licdn.com/dms/image/C4E03AQHNGiTyTPljmA/profile-displayphoto-shrink_800_800/0/1662524215257?e=1669248000&v=beta&t=5126GAkM4WEcdfym9szfK3leXp7WoArQHz7hdvqgmiw
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: kodicw@gmail.com
+  phone: 360-480-4332
   website: example.com
   wechat:
   whatsapp:
@@ -18,9 +18,9 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/kodi-walls-059bb024a/
   medium:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -43,7 +43,7 @@ experiences:
       time: 2018.03 - 2019.03
       company: Second Company
       tag:
-      location: Beijing
+      location: Washington
       details: |
         Experience in this company:
         + First
