@@ -29,7 +29,7 @@ profile:
   display: true
   title: Profile
   details: |
-    Interlock Technician/Warehouse Management Shifting into Information Technology
+    Interlock Technician/Warehouse Management/ Shifting into Information Technology
     ...
 
 experiences:
@@ -44,7 +44,7 @@ experiences:
       details: |
         Experience in this company:
         + Management
-        + Installation of Interlock
+        + Installation of Interlocks
         + Troubleshooting
         +
 
@@ -57,8 +57,8 @@ experiences:
       location: Washingtion
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Automotive Aftermarket Electronics Installation
+        + Troubleshooting
 
         ...
 
@@ -142,11 +142,11 @@ certificates:
         + Customer Service
         + Network Protocols
         + Cloud Computing
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+    - name:
+      authority:
+      time:
+      link: 
+      details: 
 
 publications:
   display: false
@@ -172,13 +172,13 @@ patents:
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: false
+  display: true
   title: Languages
   items:
-    - idiom: Chinese
-      level: Native
     - idiom: English
       level: Professional
+    - idiom: 
+      level: 
 
 interests:
   display: true
@@ -186,7 +186,7 @@ interests:
   items:
     - item: 3D Printing
       link:
-    - item: Cooking
+    - item: Homelab
       link:
 
 evaluation:
