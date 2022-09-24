@@ -107,7 +107,7 @@ skills:
     ...
 
   levels:
-    - name: Electrical diagnosing
+    - name: Electrical
       level: 90
     - name: CAD
       level: 50
