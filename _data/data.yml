@@ -2,23 +2,23 @@ basic:
   name: Kodi Walls
   title: Information Technology Specialist
   avatar:
-    display: true
-    path: https://media-exp1.licdn.com/dms/image/C4E03AQHNGiTyTPljmA/profile-displayphoto-shrink_800_800/0/1662524215257?e=1669248000&v=beta&t=5126GAkM4WEcdfym9szfK3leXp7WoArQHz7hdvqgmiw
+    display: false
+    path:
 
 contact:
   location:
   email: kodicw@gmail.com
   phone: 360-480-4332
-  website: example.com
+  website:
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: github/chocolateturtle
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: https://www.linkedin.com/in/kodi-walls-059bb024a/
+  linkedin: [Linkedin](https://www.linkedin.com/in/kodi-walls-059bb024a/)
   medium:
   twitter: 
   stackoverflow:
