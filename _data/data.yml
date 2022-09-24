@@ -14,6 +14,7 @@ contact:
   whatsapp:
   telegram:
   github: github
+  link: https://www.linkedin.com/in/kodi-walls-059bb024a/
   gitlab:
   bitbucket:
   googlescholar:
@@ -143,12 +144,16 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
+    - name: Google IT Support Specialization
+      authority: Coursera Google
+      time: September 2022
+      link: https://www.coursera.org/account/accomplishments/specialization/certificate/HBMS6UBR4QGD
       details: |
-        It's my Course Foo certificate by coursera.
+        + Debugging
+        + Encryption Algorithms and Techniques
+        + Customer Service
+        + Network Protocols
+        + Cloud Computing
     - name: Course Bar
       authority: Coursera
       time: 2020
@@ -191,7 +196,7 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: 3D Printing
       link:
     - item: Cooking
       link:
