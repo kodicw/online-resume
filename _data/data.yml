@@ -107,11 +107,11 @@ skills:
     ...
 
   levels:
-    - name: Aftermarket electronic Installation Technician
+    - name: Electrical diagnosing
       level: 90
     - name: CAD
       level: 50
-    - name: Information Technology general skills
+    - name: IT
       level: 70
 
 education:
