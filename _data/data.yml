@@ -13,13 +13,12 @@ contact:
   wechat:
   whatsapp:
   telegram:
-  github: github
-  link: https://www.linkedin.com/in/kodi-walls-059bb024a/
+  github: chocolateturtle
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: https://www.linkedin.com/in/kodi-walls-059bb024a/
+  linkedin: kodi-walls
   medium:
   twitter: 
   stackoverflow:
@@ -30,18 +29,7 @@ profile:
   display: true
   title: Profile
   details: |
-    I love learning and solving problems, automating tasks, or finding more efficient ways to do them. 
-    I've always had a passion for messing with computers, seeing how far I can push my hardware, and finding solutions for people. 
-    My favorite fields are cloud computing, virtualization/containers,  and security.
-    From my work I have experience reading circuit diagrams and diagnosing electrical issues. I've fixed problems for small business and friends. 
-    I run a hobby homelab and linode server I have personal experience with virtual machines, lxc containers, docker containers, Ubuntu server, proxmox, 
-    debian, esp32 NAT routers, Linux CLI, nano text editor, grafana, prometheus, linode vps, nginx reverse proxy manager, DNS server, CUPS print server,
-    OpenSSH with public and private keys, Git, among other technical skills. Some coding languages I've been learning are html, css, javascript and c. 
-    I've taken the Google IT professional certification. I want to know as much as I can and learn from others in the same field as me.
-    + Determined
-    + Level Headed
-    + Customer 
-
+    Interlock Technician/Warehouse Management Shifting into Information Technology
     ...
 
 experiences:
