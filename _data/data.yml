@@ -18,7 +18,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: kodi-walls
+  linkedin: kodi-walls-059bb024a
   medium:
   twitter: 
   stackoverflow:
@@ -80,7 +80,7 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
