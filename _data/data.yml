@@ -13,12 +13,12 @@ contact:
   wechat:
   whatsapp:
   telegram:
-  github: github/chocolateturtle
+  github: github
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: [Linkedin](https://www.linkedin.com/in/kodi-walls-059bb024a/)
+  linkedin: https://www.linkedin.com/in/kodi-walls-059bb024a/
   medium:
   twitter: 
   stackoverflow:
@@ -157,14 +157,14 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -182,7 +182,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
