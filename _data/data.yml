@@ -46,14 +46,14 @@ experiences:
         + Management
         + Installation of Interlocks
         + Troubleshooting
-        +
+        
 
         ...
 
     - role: 12volt Technician
       time: 2018 - 2019
       company: Foss Car Audio
-      tag: Full-time
+      tag:
       location: Washingtion
       details: |
         Experience in this company:
