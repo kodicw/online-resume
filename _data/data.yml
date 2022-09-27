@@ -107,7 +107,6 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
     + Docker
     + Linux CLI
     + Cad Shapr3d
