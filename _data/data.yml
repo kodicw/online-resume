@@ -66,7 +66,7 @@ experiences:
         
         ---
         
-        I've installed alarms, interlocks, radios, speakers, amplifiers, lights, gps systems, and overhead tv's. I Specialize in installing electronics  in vehicles. I can also diagnose electrical issues.
+        I have installed alarms, interlocks, radios, speakers, amplifiers, lights, gps systems, and overhead tv's. I Specialize in installing electronics  in vehicles. I can also diagnose electrical issues.
         
         ...
         
@@ -104,15 +104,12 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: false
+  display: true
   title: Skills
   details: |
     Here is my skills:
     + Docker
     + Linux CLI
-    + html
-    + javascript
-    + Git
     + Cad Shapr3d
 
 
@@ -124,7 +121,7 @@ skills:
     - name: CAD
       level: 50
     - name: IT
-      level: 70
+      level: 60
 
 education:
   display: false
