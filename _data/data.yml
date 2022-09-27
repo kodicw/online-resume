@@ -110,7 +110,7 @@ skills:
     + Docker
     + Linux CLI
     + Cad Shapr3d
-
+    + html, javascript, css, C,
 
     ...
 
@@ -121,6 +121,8 @@ skills:
       level: 50
     - name: IT
       level: 60
+     - name: Code
+      level: 30
 
 education:
   display: false
