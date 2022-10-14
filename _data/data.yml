@@ -207,9 +207,9 @@ interests:
   title: Interests
   items:
     - item: 3D Printing
-      link:
+      link: https://www.thingiverse.com/laxman69/designs
     - item: Homelab
-      link:
+      link: hub.virtualpotato.org
 
 evaluation:
   display: false
