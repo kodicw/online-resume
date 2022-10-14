@@ -110,7 +110,6 @@ skills:
     + Docker
     + Linux CLI
     + Cad Shapr3d
-    + html, javascript, css, C,
 
     ...
 
@@ -121,8 +120,6 @@ skills:
       level: 50
     - name: IT
       level: 50
-     - name: Code
-      level: 30
 
 education:
   display: false
@@ -207,9 +204,9 @@ interests:
   title: Interests
   items:
     - item: 3D Printing
-      link: https://www.thingiverse.com/laxman69/designs
+      link:
     - item: Homelab
-      link: hub.virtualpotato.org
+      link:
 
 evaluation:
   display: false
