@@ -55,7 +55,7 @@ experiences:
         ...
 
     - role: 12volt Technician
-      time: 2018 - 2019
+      time: 2017 - 2018
       company: Foss Car Audio
       tag:
       location: Washingtion
@@ -82,7 +82,7 @@ experiences:
         
         ---
         
-        I opened a new location in vancouver washington for Sound Distributions.I was involved in building a wall, setting up a voip system, switches, security cameras, installing software, and orginizing all of the inventory. I was also in charge of customer relationships in my local area and portland.
+        I opened a new location in Vancouver Washington for Sound Distributions. I was involved in building a wall, setting up a voip system, switches, security cameras, installing software, and organizing all of the inventory. I was also in charge of customer relationships in my local area and Portland.
 
         ...
 
@@ -104,7 +104,7 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     + Docker
@@ -116,11 +116,11 @@ skills:
 
   levels:
     - name: Electrical
-      level: 90
+      level: 75
     - name: CAD
       level: 50
     - name: IT
-      level: 60
+      level: 50
      - name: Code
       level: 30
 
