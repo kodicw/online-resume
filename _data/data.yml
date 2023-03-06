@@ -102,22 +102,27 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: false
+  display: true
   title: Skills
   details: |
     + Docker
-    + Linux CLI
-    + Cad Shapr3d
+    + Linux
+    + Python
+    + C
+    + CAD
+    + KVM
+    + Proxmox
+    + HuggingFace
+    + Git
+    + SSH
+    + Wireguard
+    + Virt-Manager
+    + Cloudflare tunnels
+    + Apache
+    + Nginx
+    + VNC
 
     ...
-
-  levels:
-    - name: Electrical
-      level: 75
-    - name: CAD
-      level: 50
-    - name: IT
-      level: 50
 
 education:
   display: false
