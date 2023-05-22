@@ -29,7 +29,7 @@ profile:
   display: true
   title: Profile
   details: |
-I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    ...
+    I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    ...
 
 experiences:
   display: true
@@ -61,11 +61,11 @@ experiences:
       location: Washingtion
       details: |
         Experience in this company:
-        + Install and configure various electronic systems in vehicles, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs.
-        + Diagnose and troubleshoot electrical issues within vehicles using diagnostic tools and equipment.
-        + Provide technical support to customers via phone, email, or in-person.
-        + Maintain an inventory of electronic components and equipment needed for installations and repairs.
-        As an electronics specialist, I offer installation services for a wide range of vehicle-based systems, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs. I am also skilled in diagnosing and troubleshooting electrical issues within vehicles.
+          + Install and configure various electronic systems in vehicles, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs.
+          + Diagnose and troubleshoot electrical issues within vehicles using diagnostic tools and equipment.
+          + Provide technical support to customers via phone, email, or in-person.
+          + Maintain an inventory of electronic components and equipment needed for installations and repairs.
+          As an electronics specialist, I offer installation services for a wide range of vehicle-based systems, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs. I am also skilled in diagnosing and troubleshooting electrical issues within vehicles.
         ---
         ...
         
@@ -76,13 +76,13 @@ experiences:
       location: Washingtion
       details: |
         Experience in this company:
-        + Install, configure, and maintain all hardware and software systems used in the warehouse
-        + Troubleshoot and resolve hardware and software issues, both on-site and remotely
-        + Provide technical support for warehouse employees, including training and guidance on software usage
-        + Maintain accurate inventory of all hardware and software systems
-        + Work with the warehouse management team to identify and implement process improvements related to technology
-        + Keep up-to-date with emerging technologies and recommend improvements to existing systems
-        I was responsible for providing technical support for all warehouse operations, including the implementation and maintenance of hardware and software systems. I worked closely with the warehouse team to resolve all technology-related issues quickly and efficiently, minimizing downtime and maximizing productivity.
+          + Install, configure, and maintain all hardware and software systems used in the warehouse
+          + Troubleshoot and resolve hardware and software issues, both on-site and remotely
+          + Provide technical support for warehouse employees, including training and guidance on software usage
+          + Maintain accurate inventory of all hardware and software systems
+          + Work with the warehouse management team to identify and implement process improvements related to technology
+          + Keep up-to-date with emerging technologies and recommend improvements to existing systems
+          I was responsible for providing technical support for all warehouse operations, including the implementation and maintenance of hardware and software systems. I worked closely with the warehouse team to resolve all technology-related issues quickly and efficiently, minimizing downtime and maximizing productivity.
         ---
 
         ...
