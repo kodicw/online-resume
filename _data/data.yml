@@ -29,14 +29,13 @@ profile:
   display: true
   title: Profile
   details: |
-    Interlock Technician/Warehouse Management/ Shifting into Information Technology
-    ...
+I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    ...
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Interlock Technician
+    - role: Automotive Safety Technician
       time: 2019 - 2022
       company: The Interlock Shop
       tag:
@@ -48,38 +47,57 @@ experiences:
         + Troubleshooting
         
         I implemented several initiatives to improve the efficiency and functionality of the company. These included adding remote access to all computers, setting up and optimizing additional machines, and troubleshooting any issues that arose. In addition, I introduced more efficient methods for installations, such as an installation cart and organized tools, and provided additional resources for clients through a bulletin board with QR code links. To further improve the experience of clients, I also implemented clear signage to communicate company policies.
-        
+
+        Key Responsibilities:
+
+        - Implementing and managing remote access solutions for all company computers
+        - Setting up and optimizing additional machines to improve functionality and efficiency
+        - Troubleshooting any technical issues that arise and providing timely solutions
+        - Developing and implementing more efficient methods for installations, such as utilizing installation carts and organizing tools
+        - Creating and managing a bulletin board with QR code links to provide additional resources for clients
+        - Designing and implementing clear signage to communicate company policies to clients
+        - Collaborating with other departments to identify and address any technology-related needs
         ---
 
         ...
 
-    - role: 12volt Technician
+    - role: Automotive Technology Specialist
       time: 2017 - 2018
       company: Foss Car Audio
       tag:
       location: Washingtion
       details: |
         Experience in this company:
-        + Automotive Aftermarket Electronics Installation
-        + Troubleshooting
         
         As an electronics specialist, I offer installation services for a wide range of vehicle-based systems, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs. I am also skilled in diagnosing and troubleshooting electrical issues within vehicles.
+
+        Key Responsibilities:
         
+        - Install and configure various electronic systems in vehicles, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs.
+        - Diagnose and troubleshoot electrical issues within vehicles using diagnostic tools and equipment.
+        - Provide technical support to customers via phone, email, or in-person.
+        - Maintain an inventory of electronic components and equipment needed for installations and repairs.
         ---
         ...
         
-    - role: Warehouse Management
+    - role: Warehouse IT Support Specialist
       time: 2021 - 2022
       company: Sound Distributions
       tag:
       location: Washingtion
       details: |
         Experience in this company:
-        + Inventory Management
-        + Customer Relationshps
         
-        I opened a new location for Sound Distributions in Vancouver, Washington and was responsible for a wide range of tasks, including building a wall, setting up a VoIP system, installing switches and security cameras, organizing inventory, and managing customer relationships in both Vancouver and Portland. My efforts have helped to ensure that the new location is up and running smoothly, offering high-quality products and exceptional customer service.
+        I was responsible for providing technical support for all warehouse operations, including the implementation and maintenance of hardware and software systems. I worked closely with the warehouse team to resolve all technology-related issues quickly and efficiently, minimizing downtime and maximizing productivity.
 
+        Key Responsibilities:
+
+        - Install, configure, and maintain all hardware and software systems used in the warehouse
+        - Troubleshoot and resolve hardware and software issues, both on-site and remotely
+        - Provide technical support for warehouse employees, including training and guidance on software usage
+        - Maintain accurate inventory of all hardware and software systems
+        - Work with the warehouse management team to identify and implement process improvements related to technology
+        - Keep up-to-date with emerging technologies and recommend improvements to existing systems
         ---
 
         ...
