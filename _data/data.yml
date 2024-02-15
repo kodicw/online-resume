@@ -3,110 +3,121 @@ basic:
   title: Technician and Management
   avatar:
     display: false
-    path:
-
+    path: null
 contact:
-  location:
+  location: null
   email: kodicw@gmail.com
   phone: 360-480-4332
-  website:
-  wechat:
-  whatsapp:
-  telegram:
+  website: null
+  wechat: null
+  whatsapp: null
+  telegram: null
   github: kodicw
-  gitlab:
-  bitbucket:
-  googlescholar:
-  researchgate:
+  gitlab: null
+  bitbucket: null
+  googlescholar: null
+  researchgate: null
   linkedin: kodi-walls-059bb024a
-  medium:
-  twitter: 
-  stackoverflow:
-  quora:
-  goodreads:
-
+  medium: null
+  twitter: null
+  stackoverflow: null
+  quora: null
+  goodreads: null
 profile:
   display: true
   title: Profile
   details: |
     I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    ...
-
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Automotive Safety Technician
-      time: 2019 - 2022
-      company: The Interlock Shop
-      tag:
-      location: Washington
-      details: |
-        Experience in this company:
-          + Implementing and managing remote access solutions for all company computers
-          + Setting up and optimizing additional machines to improve functionality and efficiency
-          + Troubleshooting any technical issues that arise and providing timely solutions
-          + Developing and implementing more efficient methods for installations, such as utilizing installation carts and organizing tools
-          + Creating and managing a bulletin board with QR code links to provide additional resources for clients
-          + Designing and implementing clear signage to communicate company policies to clients
-          + Collaborating with other departments to identify and address any technology-related needs
-        Description:
-          I implemented several initiatives to improve the efficiency and functionality of the company. These included adding remote access to all computers, setting up and optimizing additional machines, and troubleshooting any issues that arose. In addition, I introduced more efficient methods for installations, such as an installation cart and organized tools, and provided additional resources for clients through a bulletin board with QR code links. To further improve the experience of clients, I also implemented clear signage to communicate company policies.
-        ---
+  - role: Automotive Safety Technician
+    time: 2019 - 2022
+    company: The Interlock Shop
+    tag: null
+    location: Washington
+    details: |
+      Experience in this company:
+        + Implementing and managing remote access solutions for all company computers
+        + Setting up and optimizing additional machines to improve functionality and efficiency
+        + Troubleshooting any technical issues that arise and providing timely solutions
+        + Developing and implementing more efficient methods for installations, such as utilizing installation carts and organizing tools
+        + Creating and managing a bulletin board with QR code links to provide additional resources for clients
+        + Designing and implementing clear signage to communicate company policies to clients
+        + Collaborating with other departments to identify and address any technology-related needs
+      Description:
+        I implemented several initiatives to improve the efficiency and functionality of the company. These included adding remote access to all computers, setting up and optimizing additional machines, and troubleshooting any issues that arose. In addition, I introduced more efficient methods for installations, such as an installation cart and organized tools, and provided additional resources for clients through a bulletin board with QR code links. To further improve the experience of clients, I also implemented clear signage to communicate company policies.
+      ---
 
-        ...
+      ...
+  - role: Automotive Technology Specialist
+    time: 2017 - 2018
+    company: Foss Car Audio
+    tag: null
+    location: Washingtion
+    details: |
+      Experience in this company:
+        + Install and configure various electronic systems in vehicles, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs.
+        + Diagnose and troubleshoot electrical issues within vehicles using diagnostic tools and equipment.
+        + Provide technical support to customers via phone, email, or in-person.
+        + Maintain an inventory of electronic components and equipment needed for installations and repairs.
+      Description:
+        As an electronics specialist, I offer installation services for a wide range of vehicle-based systems, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs. I am also skilled in diagnosing and troubleshooting electrical issues within vehicles.
+      ---
+      ...
+  - role: Warehouse IT Support Specialist
+    time: 2021 - 2022
+    company: Sound Distributions
+    tag: null
+    location: Washingtion
+    details: |
+      Experience in this company:
+        + Install, configure, and maintain all hardware and software systems used in the warehouse
+        + Troubleshoot and resolve hardware and software issues, both on-site and remotely
+        + Provide technical support for warehouse employees, including training and guidance on software usage
+        + Maintain accurate inventory of all hardware and software systems
+        + Work with the warehouse management team to identify and implement process improvements related to technology
+        + Keep up-to-date with emerging technologies and recommend improvements to existing systems
+      Description:
+        I was responsible for providing technical support for all warehouse operations, including the implementation and maintenance of hardware and software systems. I worked closely with the warehouse team to resolve all technology-related issues quickly and efficiently, minimizing downtime and maximizing productivity.
+      ---
 
-    - role: Automotive Technology Specialist
-      time: 2017 - 2018
-      company: Foss Car Audio
-      tag:
-      location: Washingtion
-      details: |
-        Experience in this company:
-          + Install and configure various electronic systems in vehicles, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs.
-          + Diagnose and troubleshoot electrical issues within vehicles using diagnostic tools and equipment.
-          + Provide technical support to customers via phone, email, or in-person.
-          + Maintain an inventory of electronic components and equipment needed for installations and repairs.
-        Description:
-          As an electronics specialist, I offer installation services for a wide range of vehicle-based systems, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs. I am also skilled in diagnosing and troubleshooting electrical issues within vehicles.
-        ---
-        ...
-        
-    - role: Warehouse IT Support Specialist
-      time: 2021 - 2022
-      company: Sound Distributions
-      tag:
-      location: Washingtion
-      details: |
-        Experience in this company:
-          + Install, configure, and maintain all hardware and software systems used in the warehouse
-          + Troubleshoot and resolve hardware and software issues, both on-site and remotely
-          + Provide technical support for warehouse employees, including training and guidance on software usage
-          + Maintain accurate inventory of all hardware and software systems
-          + Work with the warehouse management team to identify and implement process improvements related to technology
-          + Keep up-to-date with emerging technologies and recommend improvements to existing systems
-        Description:
-          I was responsible for providing technical support for all warehouse operations, including the implementation and maintenance of hardware and software systems. I worked closely with the warehouse team to resolve all technology-related issues quickly and efficiently, minimizing downtime and maximizing productivity.
-        ---
+      ...
+  - role: Field Service Technician
+    time: 2022 - Present
+    company:
+    - Diebold Nixdorf
+    tag: null
+    location:
+    - Oregon
+    details: |-
+      Experience in this company:
+        + Installing and debugging ATM's, VATS and Retail equipment
+        + Providing technical maintenance for product and component hardware and software mainly on customer premises
+        + Conducting scheduled inspections, cleaning and other services and carrying out minor product repairs within an assigned territory
+        + Inspecting products for correct operation and resolving noted issues / escalating them according to established procedure
+        + Scheduling services, completing all required paperwork, and working with customers to ensure satisfaction with service delivery and understanding of product functionality
+      Description:
+        I am involved in the installation and debugging of ATM's, VATS, and Retail equipment. Additionally, I provide technical maintenance for product and component hardware and software, mainly on customer premises. My job also extends to scheduling and performing routine inspections, cleaning, and minor repairs within my assigned territory. An integral part of my role involves ensuring customer satisfaction by effectively communicating service schedules, completion of paperwork, and proper understanding of product functionality.
 
-        ...
+      ---
 
+      ...
 projects:
   display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
-
   items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
+  - name: Foo
+    link: https://www.google.com
+    details: |
+      Project Foo's detail, you can write markdown format text.
+  - name: Bar
+    link: null
+    details: |
+      Project Bar's detail, you can write markdown format text.
 skills:
   display: true
   title: Skills
@@ -129,94 +140,85 @@ skills:
     + VNC
 
     ...
-
 education:
   display: false
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
+  - university: Example University
+    time: 2015 - 2018
+    major: Machine Learning
+    degree: Master
+    details: |
+      Experience in this university:
+      + First
+      + Second
 
-        ...
+      ...
+  - university: Example University
+    time: 2011 - 2015
+    major: Computer Science
+    degree: Bachelor
+    details: |
+      Experience in this university:
+      + First
+      + Second
 
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
+      ...
 certificates:
   display: true
   title: Certificates
   items:
-    - name: Google IT Support Specialization
-      authority: Coursera Google
-      time: September 2022
-      link: https://www.coursera.org/account/accomplishments/specialization/certificate/HBMS6UBR4QGD
-      details: |
-        + Debugging
-        + Encryption Algorithms and Techniques
-        + Customer Service
-        + Network Protocols
-        + Cloud Computing
-    - name:
-      authority:
-      time:
-      link: 
-      details: 
-
+  - name: Google IT Support Specialization
+    authority: Coursera Google
+    time: September 2022
+    link: https://www.coursera.org/account/accomplishments/specialization/certificate/HBMS6UBR4QGD
+    details: |
+      + Debugging
+      + Encryption Algorithms and Techniques
+      + Customer Service
+      + Network Protocols
+      + Cloud Computing
+  - name: null
+    authority: null
+    time: null
+    link: null
+    details: null
 publications:
   display: false
   title: Publications
   intro: |
     This is all the books I wrote.
-
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
+  - title: Foo in Action
+    authors: Foo Bar
+    conference: Foobar, 2019
+    link: https://www.google.com
+  - title: The Art of Bar
+    authors: Foo Bar
+    conference: Foobar, 2019
+    link: null
 patents:
   display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-
 languages:
   display: true
   title: Languages
   items:
-    - idiom: English
-      level: Native
-    - idiom: 
-      level: 
-
+  - idiom: English
+    level: Native
+  - idiom: null
+    level: null
 interests:
   display: true
   title: Interests
   items:
-    - item: 3D Printing
-      link:
-    - item: Homelab
-      link:
-
+  - item: 3D Printing
+    link: null
+  - item: Homelab
+    link: null
 evaluation:
   display: false
   title: Self-evaluation
@@ -226,9 +228,7 @@ evaluation:
     + Second
 
     ...
-
 footer:
   display: true
-
-close: >
+close: |
   Sorry, my resume has been hidden.
