@@ -124,20 +124,11 @@ skills:
   details: |
     + Docker
     + Linux
+    + Nushell Data Engine
+    + Nixos
     + Python
-    + C
-    + CAD
-    + KVM
-    + Proxmox
-    + HuggingFace
     + Git
     + SSH
-    + Wireguard
-    + Virt-Manager
-    + Cloudflare tunnels
-    + Apache
-    + Nginx
-    + VNC
 
     ...
 education:
