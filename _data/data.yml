@@ -27,7 +27,8 @@ profile:
   display: true
   title: Profile
   details: |
-    I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    ...
+    I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    
+    ...
 experiences:
   display: true
   title: Experiences
@@ -91,7 +92,7 @@ experiences:
     tag: null
     location:
     - Oregon
-    details: |-
+    details: |
       Experience in this company:
         + Installing and debugging ATM's, VATS and Retail equipment
         + Providing technical maintenance for product and component hardware and software mainly on customer premises
