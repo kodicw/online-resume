@@ -50,6 +50,7 @@ experiences:
 
       Description:
         I implemented several initiatives to improve the efficiency and functionality of the company. These included adding remote access to all computers, setting up and optimizing additional machines, and troubleshooting any issues that arose. In addition, I introduced more efficient methods for installations, such as an installation cart and organized tools, and provided additional resources for clients through a bulletin board with QR code links. To further improve the experience of clients, I also implemented clear signage to communicate company policies.
+
       ---
 
   - role: Automotive Technology Specialist
@@ -66,7 +67,9 @@ experiences:
 
       Description:
         As an electronics specialist, I offer installation services for a wide range of vehicle-based systems, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs. I am also skilled in diagnosing and troubleshooting electrical issues within vehicles.
+
       ---
+
   - role: Warehouse IT Support Specialist
     time: 2021 - 2022
     company: Sound Distributions
@@ -83,6 +86,7 @@ experiences:
 
       Description:
         I was responsible for providing technical support for all warehouse operations, including the implementation and maintenance of hardware and software systems. I worked closely with the warehouse team to resolve all technology-related issues quickly and efficiently, minimizing downtime and maximizing productivity.
+
       ---
 
   - role: Field Service Technician
