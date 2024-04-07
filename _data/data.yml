@@ -26,8 +26,7 @@ contact:
 profile:
   display: true
   title: Profile
-  details: |
-    I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    
+  details: "I am a highly motivated and skilled individual with a passion for cloud computing, virtualization/containers, and security.    \n"
 experiences:
   display: true
   title: Experiences
@@ -51,7 +50,6 @@ experiences:
         I implemented several initiatives to improve the efficiency and functionality of the company. These included adding remote access to all computers, setting up and optimizing additional machines, and troubleshooting any issues that arose. In addition, I introduced more efficient methods for installations, such as an installation cart and organized tools, and provided additional resources for clients through a bulletin board with QR code links. To further improve the experience of clients, I also implemented clear signage to communicate company policies.
 
       ---
-
   - role: Automotive Technology Specialist
     time: 2017 - 2018
     company: Foss Car Audio
@@ -68,7 +66,6 @@ experiences:
         As an electronics specialist, I offer installation services for a wide range of vehicle-based systems, including alarms, interlocks, radios, speakers, amplifiers, lights, GPS systems, and overhead TVs. I am also skilled in diagnosing and troubleshooting electrical issues within vehicles.
 
       ---
-
   - role: Warehouse IT Support Specialist
     time: 2021 - 2022
     company: Sound Distributions
@@ -87,7 +84,6 @@ experiences:
         I was responsible for providing technical support for all warehouse operations, including the implementation and maintenance of hardware and software systems. I worked closely with the warehouse team to resolve all technology-related issues quickly and efficiently, minimizing downtime and maximizing productivity.
 
       ---
-
   - role: Field Service Technician
     time: 2023 - Present
     company:
@@ -107,7 +103,12 @@ experiences:
         I am involved in the installation and debugging of ATM's, VATS, and Retail equipment. Additionally, I provide technical maintenance for product and component hardware and software, mainly on customer premises. My job also extends to scheduling and performing routine inspections, cleaning, and minor repairs within my assigned territory. An integral part of my role involves ensuring customer satisfaction by effectively communicating service schedules, completion of paperwork, and proper understanding of product functionality.
 
       ---
-
+  - role: Teen Tech Facilitator
+    time: 2022 - Present
+    company: OMSI Museum - Teen & Adult Engagement
+    tag: null
+    location: Water Ave
+    details: "Experience in this job:\n  + Engaging teen visitors in design and creation projects at the Teen Tech Center (TTC), a multimedia and creative technology-focused maker space.\n  + Encouraging teens to collaborate, innovate, and express themselves creatively through hands-on experience with high tech tools and programs.\n  + Mentoring teens by facilitating exploration and innovation through open-ended questions and co-investigation.\n  + Providing guidance in inspiration, resource gathering, and creation of daily projects and activities.\n  + Maintaining a safe, secure, inviting and well-kept environment for visitors and staff.\n  \nDescription:\n  I play a crucial role in engaging and facilitating teen visitors in the Teen Tech Center, encouraging self-expression, exploration, collaboration, and innovation. I implement visitor-led and visitor-centered experiences, teaching and learning through play and experimentation. My responsibilities also include maintaining the cleanliness and overall appearance of the space, ensuring a safe and inviting environment. My job involves using creative technologies and tools, and I am passionate about tinkering, building, and making things with others.\n"
 projects:
   display: false
   title: Projects
@@ -133,7 +134,6 @@ skills:
     + Python
     + Git
     + SSH
-
 education:
   display: false
   title: Education
